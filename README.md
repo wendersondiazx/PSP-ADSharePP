@@ -9,7 +9,7 @@ It is a PSP homebrew application designed for direct file sharing between two Pl
 
 This version keeps the original ADShare concept and protocol while reorganizing the project into a cleaner C++ codebase split into dedicated modules under `src/`.
 
-> Developed by **welabsdev**
+> Developed by **wendersondiazx**
 
 ---
 
